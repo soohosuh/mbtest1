@@ -6,7 +6,7 @@ public interface Mapper {
 
     int insert(BoardDTO boardDTO);
     
-    
+      
     public String time();
 
 }
